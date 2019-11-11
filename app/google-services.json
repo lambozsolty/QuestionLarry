@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "234498204596",
+    "firebase_url": "https://questionlarry-a6f7e.firebaseio.com",
+    "project_id": "questionlarry-a6f7e",
+    "storage_bucket": "questionlarry-a6f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234498204596:android:342107834526f7f40908e1",
+        "android_client_info": {
+          "package_name": "com.example.questionlarry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234498204596-137sne68m49c7phno2la15ltr1ksrufr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.questionlarry",
+            "certificate_hash": "c56d2124b1d09f82acf559920a0d14c23459887f"
+          }
+        },
+        {
+          "client_id": "234498204596-v3bb9p4gemhhsmc5keb7kkccm2jej3gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtaASAPaOm5vPhuODzhBunI9Oo71wSexE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234498204596-v3bb9p4gemhhsmc5keb7kkccm2jej3gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
